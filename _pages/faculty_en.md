@@ -87,7 +87,7 @@ Yukihiko Yamashita |Associate Professor|Transdisciplinary Science and Engineerin
 Naoyuki Hayashi | Professor|Social and Human Sciences
 Kazuhiro Kezuka |Associate Professor(Lecturer)|Social and Human Sciences
 Yoshimi Takuwa|Associate Professor(Lecturer)|Social and Human Sciences
-Yasuko Yanagid|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
+Yasuko Yanagida|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Takamichi Nakamoto|Professor|Laboratory for Future Interdisciplinary <br>Research of Science and Technology
 Hidetoshi Nishimori|Professor|Quantum Computing Unit
 Misako Takayasu|Professor|Advanced Data Analysis and Modeling Unit
