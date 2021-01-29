@@ -36,8 +36,8 @@ header:
 　日時：2021年3月8日（月）13:00開始　17:00終了<br>
 　開催方法：オンライン開催（Zoom Webinarを利用予定）参加費無料<br>
 　対象：一般の皆様、コンソーシアム参加機関、東工大学生および教職員<br>
-  [詳細はこちらを参照ください。](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308/)　
-  <div style="text-align:left"><img src="/assets/images/3rdSSSForum-banner.jpg" width="20%" height="20%" />
+　[詳細はこちらを参照ください。](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308/)
+　<div style="text-align:left"><img src="/assets/images/3rdSSSForum-banner.jpg" width="20%" height="20%" />
   </div>
 
 <hr>
