@@ -31,6 +31,14 @@ header:
 
 ## Upcoming Events
 
+* **3rd SSS Promotion Forum  "The evolution of virtual space (Digital Twin) and new lifestyles**
+
+  Date：Monday, March 8, 2021　13:00-17:00
+  Venue：Online（Zoom） Admission Free<br>
+  Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/)<br>
+
+<hr>
+
 * **SSS Interdisciplinary matching workshop**<span style="color:Red">　-The event has ended.-</span>
 
   Date: November 18 & December 2, 2020  Online event<br>
