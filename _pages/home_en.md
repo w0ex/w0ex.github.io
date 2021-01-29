@@ -67,7 +67,7 @@ feature_row:
 
 <h6>NEWS　</h6>
 
-<B>2021.01.29</B>　[3rd SSS Promotion Forum  "The evolution of virtual space (Digital Twin) and new lifestyles](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/)Date：Monday, March 8, 2021　13:00-17:00, Venue：Online（Zoom） Admission Free<br>
+<B>2021.01.29</B>　[3rd SSS Promotion Forum  "The evolution of virtual space (Digital Twin) and new lifestyles](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/) Date：Monday, March 8, 2021 at 13:00-17:00, Venue：Online（Zoom） Admission Free<br>
 
 <B>2020.12.11　Information: Special temporary benefits of “Super Smart Society Leadership Scholarship for Doctoral Students”</B><br>
 Based on the proposal of the SSS Promotion Consortium, we are providing financial support to WISE-SSS enrolled students whose household budget has changed suddenly or their educational and research activities have been restricted due to the spread of the COVID-19. <br>
