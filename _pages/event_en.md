@@ -36,6 +36,8 @@ header:
   Date：Monday, March 8, 2021　13:00-17:00
   Venue：Online（Zoom） Admission Free<br>
   Details: Click [here](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/)<br>
+  <div style="text-align:left"><img src="/assets/images/3rdSSSForum-banner.jpg" width="20%" height="20%" />
+  </div>
 
 <hr>
 
