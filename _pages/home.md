@@ -63,7 +63,7 @@ feature_row:
 
 <h6>NEWS　</h6>
 
-<B>2021.02.01</B>　Chaojing Lin（リン・チャオジン）特任助教の研究成果が[東工大ニュース](https://www.titech.ac.jp/news/2021/048734.html)で紹介されました。<br>
+<B>2021.02.01</B>　[Chaojing Lin（リン・チャオジン）特任助教の研究成果が東工大ニュースで紹介されました。](https://www.titech.ac.jp/news/2021/048734.html)<br>
 
 <B>2021.01.29</B>　[第3回SSS推進フォーラム「バーチャル空間（デジタルツイン）の進化と新しいライフスタイル」](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308/)開催のお知らせ（2021年3月8日（月）13:00-17:00 オンライン開催、参加費無料）<br>
 
@@ -72,11 +72,11 @@ feature_row:
 
 <B>2020.12.10</B>　["Robot Zoo Sky"](/RE_fields/)を利用した研究（工学院・畑中健志准教授）が、[CCTA2020](https://ccta2020.ieeecss.org/)で[”Outstanding Student Paper Award”](http://ieeecss.org/awards/conference-control-technology-and-applications-best-student-paper-award)を受賞しました。<br>
 
-<B>2020.10.13</B>　阪口啓教育院長が[「顔 東工大の研究者たち」](https://www.titech.ac.jp/research/stories/faces39_sakaguchi.html)で紹介されました。<br>
+<B>2020.10.13</B>　[阪口啓教育院長が「顔 東工大の研究者たち」で紹介されました。](https://www.titech.ac.jp/research/stories/faces39_sakaguchi.html)<br>
 
-<B>2020.09.30</B>　第4Q科目「SSS.S402 超スマート社会創造A2：IoT/ロボティクス/スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=JA&vid=03)に公開されました。※第2Qで行われた授業に英語字幕が付きました。<br>
+<B>2020.09.30</B>　[第4Q科目「SSS.S402 超スマート社会創造A2：IoT/ロボティクス/スマートシティ」の講義情報がOCWに公開されました。※第2Qで行われた授業に英語字幕が付きました。](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=JA&vid=03)<br>
 
-<B>2020.09.30</B>　第3Q科目「SSS.S401 超スマート社会創造A1：量子科学の最前線」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028549&Nendo=2020&vid=03)に公開されました。<br>
+<B>2020.09.30</B>　[第3Q科目「SSS.S401 超スマート社会創造A1：量子科学の最前線」の講義情報がOCWに公開されました。](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028549&Nendo=2020&vid=03)<br>
 
 <B>2020.08.07</B>　[教員公募：超スマート社会卓越教育院・量子科学教育研究フィールド 特任准教授（申込〆切：2020年9月7日）](/doc/koubo_quantum_202008.pdf)
 
@@ -84,9 +84,9 @@ feature_row:
 
 <B>2020.07.09</B>　[SSS教育研究フィールドを紹介する動画を掲載しました。](https://www.wise-sss.titech.ac.jp/RE_fields/)
 
-<B>2020.06.15</B>　第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報が[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)に公開されました。<br>
+<B>2020.06.15</B>　[第2Q科目「SSS.S402 超スマート社会創造A2：IoT／ロボティクス／スマートシティ」の講義情報がOCWに公開されました。](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028550&Nendo=2020&vid=03)<br>
 
-<B>2020.06.15</B>　第2Q科目[「SSS.B401 Introduction to Quantum Science and Technology」(英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
+<B>2020.06.15</B>　[第2Q科目「SSS.B401 Introduction to Quantum Science and Technology」(英語開講)](/doc/SSS_B401_IntroductionToQuantumScienceAndTechnology.pdf)の講義情報を掲載しました。[OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&GakubuCD=00&GakkaCD=400051&KeiCD=0&course=51&KamokuCD=400051&KougiCD=202028553&Nendo=2020&vid=03)にも公開中です。<br>
 
 <B>2020.06.11</B>　[2020年10月登録申請〆切、登録申請書を掲載しました。](https://www.wise-sss.titech.ac.jp/guide/)
 
