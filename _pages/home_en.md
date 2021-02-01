@@ -67,7 +67,7 @@ feature_row:
 
 <h6>NEWS　</h6>
 
-<B>2021.02.01</B>　The research result of Dr.Chaojing Lin (the specially appointed assistant professor of WISE-SSS) was introduced in[Tokyo Tech News](https://www.titech.ac.jp/news/2021/048734.html)<br>
+<B>2021.02.01</B>　[The research result of Dr.Chaojing Lin (the specially appointed assistant professor of WISE-SSS) was introduced in Tokyo Tech News.](https://www.titech.ac.jp/news/2021/048734.html)<br>
 
 <B>2021.01.29</B>　[3rd SSS Promotion Forum  "The evolution of virtual space (Digital Twin) and new lifestyles](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/) Date：Monday, March 8, 2021 at 13:00-17:00, Venue：Online（Zoom） Admission Free<br>
 
@@ -79,7 +79,7 @@ More details will be announced at a later date.<br>
 
 <B>2020.12.10</B>　The research by Prof. Takeshi Hatanaka using ["Robot Zoo Sky"](/RE_fields/) was awarded the [”Outstanding Student Paper Award”](http://ieeecss.org/awards/conference-control-technology-and-applications-best-student-paper-award) at [CCTA2020](https://ccta2020.ieeecss.org/).<br>
 
-<B>2020.10.13</B>　Prof. Kei Sakaguchi, Dean of the Tokyo Tech Academy for Super Smart Society is featured in the ["FACES: Tokyo Tech Researchers".](https://www.titech.ac.jp/english/research/stories/faces39_sakaguchi.html)<br>
+<B>2020.10.13</B>　[Prof. Kei Sakaguchi, Dean of the Tokyo Tech Academy for Super Smart Society is featured in the "FACES: Tokyo Tech Researchers".](https://www.titech.ac.jp/english/research/stories/faces39_sakaguchi.html)<br>
 
 <B>30/09/2020</B>　Course information for the 4th quarter: "SSS.S402 Super Smart Society Innovation A2: IoT/Robotics/Smart city" ⇒ [OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=T0300&JWC=202030566&lang=EN&vid=03) ※English subtitles have been added to the same course held in the 2nd Q.<br>
 
