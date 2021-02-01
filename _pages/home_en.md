@@ -67,6 +67,8 @@ feature_row:
 
 <h6>NEWS　</h6>
 
+<B>2021.02.01</B>　The research result of Dr.Chaojing Lin (the specially appointed assistant professor of WISE-SSS) was introduced in[Tokyo Tech News](https://www.titech.ac.jp/news/2021/048734.html)<br>
+
 <B>2021.01.29</B>　[3rd SSS Promotion Forum  "The evolution of virtual space (Digital Twin) and new lifestyles](https://www.sss.e.titech.ac.jp/event-sss-promotion-forum-20210308en/) Date：Monday, March 8, 2021 at 13:00-17:00, Venue：Online（Zoom） Admission Free<br>
 
 <B>2020.12.11　Information: Special temporary benefits of “Super Smart Society Leadership Scholarship for Doctoral Students”</B><br>
