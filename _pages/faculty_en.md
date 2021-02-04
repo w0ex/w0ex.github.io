@@ -102,7 +102,7 @@ Kayoko Nohara |Professor|Transdisciplinary Science and Engineering
 Kazuki Maruta |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
 Yusuke Shinyama |Specially Appointed Assistant Professor|Tokyo Tech Academy for Super Smart Society
 Yu Ara |Specially Appointed Assistant Professor|Tokyo Tech Academy for Super Smart Society
-
+Jun Yoneda |Specially Appointed Associate Professor|Tokyo Tech Academy for Super Smart Society
 
 <br><br>
 
