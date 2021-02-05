@@ -30,7 +30,7 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application_2021s.png
+  - image_path: /assets/images/registration_2021s.png
     alt: "超スマート社会卓越教育課程・2021年春期登録申請"
     title: "超スマート社会卓越教育課程・2021年春期登録申請"
     excerpt: "<B>申請書提出期日：
