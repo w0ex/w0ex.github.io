@@ -31,11 +31,11 @@ header:
 feature_row:
 
   - image_path: /assets/images/registration_2021s.png
-    alt: "超スマート社会卓越教育課程・2021年春期登録申請"
-    title: "超スマート社会卓越教育課程・2021年春期登録申請"
+    alt: "超スマート社会卓越教育課程・2021年度春期登録申請"
+    title: "超スマート社会卓越教育課程・2021年度春期登録申請"
     excerpt: "<B>申請書提出期日：
     <br>● 2021年2月26日(金)正午</B><br>
-    超スマート社会卓越教育課程では、2021年春期登録の募集をいたします。"
+    超スマート社会卓越教育課程では、2021年度春期登録の募集をいたします。"
     url: "/guide/"
     btn_label: "See more"
     btn_class: "btn--primary"    
