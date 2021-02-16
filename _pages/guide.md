@@ -40,6 +40,10 @@ header:
 
        <b>● 登録審査(書類審査)：</b>2021年3月上旬<br><br>
 
+       <div style="text-align:left"><img src="/assets/images/registration_2021s.png" width="20%" height="20%" />
+       </div>
+       <br>
+
   <a href="/doc/Guide_SSS.pdf">学修案内</a>を熟読の上、登録申請書をご記入下さい。博士後期課程から履修を開始する学生で、<B>中間審査</B>の実施を希望する場合は、登録申請書の「4.中間審査の希望」欄を必ずご記入下さい。中間審査は2021年3月中旬に行われる予定です。<br>
   </p>
   </div>
