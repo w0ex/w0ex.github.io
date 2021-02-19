@@ -35,11 +35,11 @@ This educational curriculum aims to realize a super smart society based on quant
 
 This program cultivates five essential skills to realize a future Super Smart Society based on quantum science, in addition to teaching specialized courses where the students enroll.
 
-* Make core skills rooted in quantum science and artificial intelligence available to all academics.
-* Encourage original research spanning the domains of cyber and physical space.
-* Enhance the big picture from quantum science to Super Smart Society.
+* Make core skills rooted in quantum science and artificial intelligence available to all academics
+* Encourage original research spanning the domains of cyber and physical space
+* Enhance the big picture from quantum science to Super Smart Society
 * Innovate interdisciplinary research to create super smart society
-* Promote a talented and seamless leadership between academia, government, and industry.
+* Promote a talented and seamless leadership between academia, government, and industry
 
 <div style="text-align:center"><img src="/assets/images/5o-v3-en.png" /></div>
 

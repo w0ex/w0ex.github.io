@@ -109,7 +109,7 @@ Jun Yoneda |Specially Appointed Associate Professor|Tokyo Tech Academy for Super
 **External Evaluation Special Advisors**
 
 |Pramod P. Khargonekar| Vice Chancellor for Research of UC Irvine <br>Former NSF Assistant Director for Engineering
-|Makoto Ando|Director, KOSEN National Institute of Technology<br>Ex-president, IEICE
+|Makoto Ando|Advisor, KOSEN National Institute of Technology<br>Ex-president, IEICE
 |Kazuo Kyuma|President, National Agriculture and Food Research Organization<br>Ex-executive member, CSTI
 |Hironori Hibino|Tokyo University of Science
 

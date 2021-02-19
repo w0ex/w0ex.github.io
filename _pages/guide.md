@@ -30,7 +30,7 @@ header:
 ---
 ## 登録案内
 
-<font size="4"><h5>2021年春期登録案内</h5></font>
+<font size="4"><h5>2021年度春期登録案内</h5></font>
   <div class="box2">
   <p><b>● 登録申請書提出〆切：</b>2021年2月26日（金）12:00（正午）<br>
 
@@ -39,6 +39,10 @@ header:
      <b>● 登録申請書：</b>こちらからダウンロードして下さい → <a href="/doc/2021_spring_application_form.docx">word</a>, <a href="/doc/2021_spring_application_form.pdf">pdf</a><br>
 
        <b>● 登録審査(書類審査)：</b>2021年3月上旬<br><br>
+
+       <div style="text-align:left"><img src="/assets/images/registration_2021s.png" width="20%" height="20%" />
+       </div>
+       <br>
 
   <a href="/doc/Guide_SSS.pdf">学修案内</a>を熟読の上、登録申請書をご記入下さい。博士後期課程から履修を開始する学生で、<B>中間審査</B>の実施を希望する場合は、登録申請書の「4.中間審査の希望」欄を必ずご記入下さい。中間審査は2021年3月中旬に行われる予定です。<br>
   </p>

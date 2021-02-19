@@ -33,7 +33,7 @@ header:
 
 feature_row:
 
-  - image_path: /assets/images/application_2021s.png
+  - image_path: /assets/images/registration_2021s.png
     alt: "WISE-SSS Registration Application in Spring 2021"
     title: "WISE-SSS Registration Application in Spring 2021"
     excerpt: "<B>Due date for submission of application form：

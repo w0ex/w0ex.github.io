@@ -43,6 +43,10 @@ header:
 
 <b>● Registration examination (document screening)：</b> Early March 2021<br><br>
 
+<div style="text-align:left"><img src="/assets/images/registration_2021s.png" width="20%" height="20%" />
+</div>
+<br>
+
   Please read the <a href="/doc/Guide_SSS.pdf">Study guide</a> carefully. Current or prospective doctoral students who request for a <B>mid-term review</B> in concurrent with the entrance examination, please complete "4. Request for mid-term review for transforming into the program" in the registration application form. The mid-term review will be held on the middle of March 2021.<br>
   </p>
   </div>
