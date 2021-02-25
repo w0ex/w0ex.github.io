@@ -114,7 +114,7 @@ Jun Yoneda |Specially Appointed Associate Professor|Tokyo Tech Academy for Super
 |Hironori Hibino|Tokyo University of Science
 
 <br><br>
-**International Advisor**　
+**International Advisors**　
 
 Magnus Egerstedt |Georgia Institute of Technology
 Jenq-Shiou Leu |NTUST
